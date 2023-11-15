@@ -80,7 +80,7 @@ Continuous Deployment (CD) ist eine Praxis in der Softwareentwicklung, bei der S
 
 ---
 
-## Schlussfolgerung
+# Schlussfolgerung
 
 Continuous Development (CD) ist ein agiler Ansatz zur Softwareentwicklung, der es Unternehmen ermöglicht, Software kontinuierlich zu verbessern und schneller auf sich ändernde Anforderungen zu reagieren. Dieser Prozess bietet viele Vorteile, darunter die schnellere Markteinführung von Software, kontinuierliche Qualitätsverbesserung und eine erhöhte Benutzerzufriedenheit.
 
@@ -88,5 +88,16 @@ Die Implementierung von CD erfordert eine sorgfältige Planung, eine gut durchda
 
 Insgesamt kann Continuous Development dazu beitragen, dass Softwareunternehmen wettbewerbsfähiger und agiler werden. Durch die kontinuierliche Bereitstellung von Softwareänderungen können sie die Bedürfnisse ihrer Benutzer besser erfüllen und innovative Lösungen schneller auf den Markt bringen.
 
+---
 
+# Quellen
+- https://www.synopsys.com/glossary/what-is-continuous-development.html#:~:text=Definition,it%20is%20completed%20and%20tested.
+- https://www.servicenow.com/products/it-operations-management/what-is-continuous-development.html
+- https://mindsquare.de/knowhow/continuous-deployment/
+- https://www.ibm.com/de-de/topics/continuous-deployment#:~:text=den%20n%C3%A4chsten%20Schritt-,- Was%20ist%20Continuous%20Deployment%3F,in%20die%20Produktionsumgebung%20freigegeben%20werden.
+- https://www.jetbrains.com/de-de/teamcity/ci-cd-guide/continuous-deployment/
+- https://www.dev-insider.de/was-ist-continuous-deployment-a-652804/
+- https://www.ionos.de/digitalguide/websites/web-entwicklung/continuous-integration/
+- https://www.synopsys.com/glossary/what-is-sdlc.html
+- https://medium.com/@jilvanpinheiro/software-development-life-cycle-sdlc-phases-40d46afbe384
 
