@@ -23,7 +23,8 @@ Continuous Deployment (CD) ist eine Praxis in der Softwareentwicklung, bei der S
 ---
 
 # Standard Software Development Life-Cycle vs. Continuous Deployment
-![Alt text](CDGrafik.png)![Alt text](classicgrafik.png)
+![Alt text](classicgrafik.png)
+![Alt text](CDGrafik.png)
 
 ---
 
