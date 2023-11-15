@@ -87,8 +87,6 @@ Die Continuous Deployment-Pipeline ermöglicht eine sichere und effiziente Berei
 
 # Bedeutung der Automatisierung in Continuous Deployment
 
-Die Automatisierung spielt eine entscheidende Rolle im Continuous Deployment-Prozess und bietet viele Vorteile für die Softwareentwicklung. Hier ist, warum die Automatisierung so wichtig ist:
-
 1. **Effizienz**: Automatisierung beschleunigt den Bereitstellungsprozess erheblich. Aufgaben wie Build-Erstellung, Tests und Bereitstellung, die manuell Stunden oder Tage dauern könnten, werden in Minuten oder Sekunden erledigt.
 
 2. **Wiederholbarkeit**: Automatisierte Prozesse sind konsistent und wiederholbar. Dies bedeutet, dass jede Softwareänderung denselben Satz von Schritten durchläuft, was die Wahrscheinlichkeit menschlicher Fehler minimiert.
@@ -104,9 +102,6 @@ Die Automatisierung spielt eine entscheidende Rolle im Continuous Deployment-Pro
 7. **Konsistenz**: Die Automatisierung stellt sicher, dass alle Umgebungen (Entwicklung, Test, Produktion) konsistent sind, was die Wahrscheinlichkeit von Umgebungsbedingten Fehlern reduziert.
 
 8. **Beschleunigung der Markteinführung**: Durch die automatisierte Bereitstellung können neue Funktionen schneller auf den Markt gebracht werden, was einen Wettbewerbsvorteil verschafft.
-
-Insgesamt ermöglicht die Automatisierung in Continuous Deployment eine schnellere und zuverlässigere Bereitstellung von Softwareänderungen, verbessert die Qualität der Software und ermöglicht es Entwicklungsteams, sich auf kritischere Aufgaben zu konzentrieren. Sie ist daher ein wesentlicher Bestandteil des CD-Prozesses.
-
 
 ---
 
