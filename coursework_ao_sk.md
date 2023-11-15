@@ -1,5 +1,6 @@
 # Continuous Deployment: Die Zukunft der Softwarebereitstellung
 ![Alt text](back.jpg)
+
 ---
 
 # Inhaltsverzeichnis
@@ -8,6 +9,7 @@
 - SWOT-Analyse von Continuous Deployment
 - Standard Software Development Life-Cycle vs. Continuous Deployment
 - Fazit
+
 ---
 
 # Was ist Continuous Deployment?
